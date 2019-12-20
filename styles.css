@@ -46,7 +46,7 @@ input {
     margin-right: 1%;
     border: black groove 2px;
     border-radius: 10px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .money {
@@ -64,4 +64,9 @@ input {
 .questionBody {
     border: 5px inset navy;
     border-radius: 10px;
+}
+
+.answer:hover {
+    border: white groove 5px;
+
 }
